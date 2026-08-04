@@ -1,0 +1,16 @@
+# API keys and environment variables
+.env
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store

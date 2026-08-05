@@ -14,3 +14,7 @@ __pycache__/
 
 # macOS system files
 .DS_Store
+
+# Raw API data
+data/raw/*.csv
+

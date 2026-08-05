@@ -18,3 +18,7 @@ __pycache__/
 # Raw API data
 data/raw/*.csv
 
+# Processed job-posting data
+data/processed/*.csv
+
+

@@ -21,4 +21,7 @@ data/raw/*.csv
 # Processed job-posting data
 data/processed/*.csv
 
+# Jupyter and Anaconda temporary files
+.virtual_documents/
+anaconda_projects/
 
